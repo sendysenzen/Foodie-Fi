@@ -6,4 +6,4 @@ All queries are written in PostgreSQL
 Details of the case : 
 https://8weeksqlchallenge.com/case-study-3/
 
-### I will upload the PostgreSQL solution soon.. 
+![foodiefilogo](https://8weeksqlchallenge.com/images/case-study-designs/3.png)
